@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Srimadhi.A</h1>
 <h3 align="center">Aspiring MERN Stack Developer | BCA Student | Passionate About Technology & Problem-Solving</h3>
 
-- 💬 Ask me about **HTML,CSS**
+- 🌱 I’m currently learning **Python,SQL,React**
+
+- 💬 Ask me about **HTML,CSS, Canva,Boostrap**
 
 - 📫 How to reach me **srimadhianbarasan@gmail.com**
 
